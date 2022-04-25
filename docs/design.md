@@ -60,3 +60,7 @@ If the arguments are invalid, raise an exception.
 connecting the two vertices whose indices were passed in.
 If the edge doesn't exist, do nothing.
 If the arguments are invalid, raise an exception.
+
+A static factory method, `generate(n, alpha)`,
+returns a new object of type `GraphWorld` with *n* vertices.
+The argument *alpha* is used in generation, described below.
