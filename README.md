@@ -14,8 +14,8 @@ TBD.
 ### Dependencies
 
 Python 3.8 or later.
-Uses the `sqlite3` and `tkinter` libraries.
-Make sure you have `python3-tk` installed.
+Uses `scipy` for graph generation
+and `matplotlib` for testing.
 
 ### Installing
 
